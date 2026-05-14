@@ -1,0 +1,20 @@
+LINKEDIN PROFILE:
+Tom Ashworth
+Co-Founder & CEO · Recast · London
+
+About
+Building Recast — we help DTC and e-commerce brands understand which marketing channels are actually driving revenue, using Bayesian MMM (media mix modelling). Think of it as an alternative to last-click attribution that doesn't break when iOS blocks tracking.
+
+Raised a £2.1M pre-seed in Jan 2024 (led by Episode 1, Frontline). 8 people. First 20 customers are DTC brands doing £5M-£50M revenue. Closing first enterprise pilot with a major UK retailer.
+
+Background: 5 years at Facebook (now Meta) as a measurement partner manager, working with retail and e-comm advertisers. Then 2 years at a small marketing analytics consultancy. Dropped out of that to start Recast in 2023.
+
+Experience
+CEO & Co-Founder · Recast · 18 months
+Head of Measurement · Analytix Consulting · 2 years
+Partner Manager, Measurement · Meta · 5 years
+
+COMPANY:
+https://getrecast.com
+
+Pre-seed, 8 employees, London-based. MMM / marketing attribution SaaS for DTC brands. Annual subscription model. Currently 20 paying customers. Competing with Northbeam, Rockerbox, Triple Whale (all VC-backed US competitors). Also competing against in-house Python models built by data teams at larger brands.

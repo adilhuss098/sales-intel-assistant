@@ -1,0 +1,10 @@
+anthropic>=0.50.0
+streamlit>=1.45.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+trafilatura>=1.12.0
+duckduckgo-search>=7.0.0
+markdown2>=2.5.0
+fpdf2>=2.8.0
+lxml>=5.0.0
