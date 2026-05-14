@@ -21,7 +21,7 @@ def synthesize(facts: dict, analysis: dict) -> dict:
 Write the final brief now. Remember: every element must be grounded in specific facts. No generic filler.
 """
 
-    raw = call_model(SONNET, system, user, max_tokens=3000)
+    raw = call_model(SONNET, system, user, max_tokens=8000)
 
     cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw.strip(), flags=re.MULTILINE)
 

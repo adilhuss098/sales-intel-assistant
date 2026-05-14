@@ -36,7 +36,7 @@ def reason(facts: dict, enriched_text: str, seller_context: str) -> dict:
     system = load_prompt("reason")
     user = _build_user_prompt(facts, enriched_text, seller_context)
 
-    raw = call_model(SONNET, system, user, max_tokens=3000)
+    raw = call_model(SONNET, system, user, max_tokens=6000)
 
     cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw.strip(), flags=re.MULTILINE)
 
